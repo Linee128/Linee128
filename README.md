@@ -1,16 +1,19 @@
-## Hi there 👋
+| 这个作业属于哪个课程 | <班级的链接> | (https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/) |
 
-<!--
-**Linee128/Linee128** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+| ----------------- |--------------- |
 
-Here are some ideas to get you started:
+| 这个作业要求在哪里| <作业要求的链接> |（https://edu.cnblogs.com/campus/gdgy/Class12Grade23ComputerScience/homework/13469）|
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| 这个作业的目标 | <你理解的作业目标具体内容> | 自我介绍，熟悉教材和相关工具的使用，启发对软件工程这门课程的理解 |
+
+1、自我介绍
+我时凌紫君，广东工业大学2023级计算机科学与技术1班的一名学生，来自广东梅州，喜欢听音乐和绘画，喜欢旅游，喜欢探店吃美食；专业上熟悉C++和Java，希望能通过这门课程提升自己的编程能力。
+2、对软件工程的5个问题
+*软件工程和编程的核心区别是什么？
+*需求分析听起来很抽象，如何判断自己做的需求分析是否合格？
+*如何在团队项目中，保持自己的节奏，避免过多受别人的影响？
+*软件测试如何降低代价成本？
+*在AI的广泛应用下，工程师应该优先学习哪些新技能？
+3、期望收获
+*更加熟悉这门课程，掌握需求分析和代码设计，以满足用户需求
+*更加注重团队合作，培养协作能力
